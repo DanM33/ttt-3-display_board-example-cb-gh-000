@@ -9,4 +9,3 @@ def display_board
   puts tic_separator
   puts tic_row
 end
-
